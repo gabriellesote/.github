@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="banner" src="https://github.com/gabriellesote/4semestre/blob/main/wallpaper/banner.png">
+  <img alt="banner" src="https://github.com/quarto-semestre/estudos/blob/main/banners/banner.png">
 </p>
 
 <h2 align="center"> Estruturas de dados e análise de algoritmos </h2>
